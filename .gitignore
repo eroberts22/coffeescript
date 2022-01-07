@@ -1,0 +1,6 @@
+expr.tab.h
+expr.tab.c
+a.exe
+main.exe
+expr.output
+lex.yy.c

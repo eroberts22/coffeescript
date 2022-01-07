@@ -1,0 +1,15 @@
+powerOn
+displayTime
+amount(4)
+strength(regular)
+brew
+amount(16)
+strength(strong)
+brew
+strength(iced)
+amount(8)
+brew
+amount(20)
+brew
+displayTime
+powerOff
